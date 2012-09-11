@@ -1,0 +1,17 @@
+{
+  "name": "latinpluralsforyou.com",
+  "version": "0.0.1",
+  "private": true,
+
+  "scripts": {
+    "start": "server/bin/server"
+  },
+
+  "dependencies": {
+    "express": "2.5.8"
+  },
+
+  "devDependencies": {
+    "awsbox": "0.2.17"
+  }
+}
