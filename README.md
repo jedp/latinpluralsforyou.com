@@ -1,11 +1,8 @@
-octopus platypus
-virus
-media
-bona fides
-synopsis
-criteria
-cactus
+Latin Plurals for You
+=====================
 
-data
+Jupiter kills a kitten every time someone says *octopi* or (shudder) *virii*.
 
-alumnus, alumna
+This site is to stop the senseless killing of kittens.
+
+http://latinpluralsforyou.com
